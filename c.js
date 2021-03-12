@@ -1,3 +1,6 @@
 function q() {
 
 }
+function a() {
+
+}
